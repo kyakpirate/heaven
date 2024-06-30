@@ -15,4 +15,4 @@ The goal will be broken down into the following tasks:
 5.   Next write more complicated games with advanced graphics for execercise purposes improving skills in all of the above.
 6.   Finally, make an addictive excercise game to play against an intelligent, but insane, AI bot that is bottled inside the computer and get buff.
 
-To lose weight, try to not eat anything that contains sugar or anything that changes to sugar quickly in your body such as noodles, flour tortillas, crackers, white rice, ect.    Stick to a vegitable and protien diet.
+To lose weight, try to not eat anything that contains sugar or anything that changes to sugar quickly in your body such as noodles, flour tortillas, crackers, white rice, ect.    Stick to a vegitable and protien diet.   This diet has worked for me.   It's a slow process but does work.
